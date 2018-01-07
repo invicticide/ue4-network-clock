@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1C052F7B-4790-5B20-E72A-F5B8CCF516D8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NetworkClock",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
